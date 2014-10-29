@@ -20,6 +20,7 @@ int main()
         printf("%d\t%d\n", fahr, celsius);
         fahr += step;
     }
+    return 0;
 }
 
 /* Result:
